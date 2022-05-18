@@ -13,9 +13,9 @@
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 48177,
+    "stargazers_count": 48226,
     "open_issues_count": 133,
-    "forks_count": 5913
+    "forks_count": 5917
   },
   {
     "full_name": "Mogakamo/reddit-lite",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 131592,
-    "open_issues_count": 6403,
-    "forks_count": 22338
+    "stargazers_count": 131738,
+    "open_issues_count": 6426,
+    "forks_count": 22380
   },
   {
     "full_name": "durgeshsamariya/awesome-github-profile-readme-templates",
-    "stargazers_count": 1596,
-    "open_issues_count": 21,
-    "forks_count": 3523
+    "stargazers_count": 1611,
+    "open_issues_count": 22,
+    "forks_count": 3537
   },
   {
     "full_name": "waynegakuo/portfolio",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 345938,
-    "open_issues_count": 147,
-    "forks_count": 28630
+    "stargazers_count": 346059,
+    "open_issues_count": 153,
+    "forks_count": 28629
   },
   {
     "full_name": "digitalocean/hacktoberfest",
     "stargazers_count": 510,
     "open_issues_count": 27,
-    "forks_count": 148
+    "forks_count": 147
   },
   {
     "full_name": "Mogakamo/dynamic-web-starter",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 22338,
-    "open_issues_count": 36,
-    "forks_count": 4420
+    "stargazers_count": 22352,
+    "open_issues_count": 39,
+    "forks_count": 4423
   },
   {
     "full_name": "galio-org/galio",
-    "stargazers_count": 2875,
+    "stargazers_count": 2878,
     "open_issues_count": 53,
     "forks_count": 297
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "instamobile/react-native-starter-kit",
-    "stargazers_count": 359,
+    "stargazers_count": 358,
     "open_issues_count": 19,
     "forks_count": 65
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 35364,
+    "stargazers_count": 35396,
     "open_issues_count": 6,
-    "forks_count": 2050
+    "forks_count": 2054
   },
   {
     "full_name": "subeshb1/developer-community-stats",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "open-wa/wa-automate-nodejs",
-    "stargazers_count": 2225,
-    "open_issues_count": 46,
-    "forks_count": 469
+    "stargazers_count": 2231,
+    "open_issues_count": 45,
+    "forks_count": 468
   },
   {
     "full_name": "git/git",
-    "stargazers_count": 42075,
-    "open_issues_count": 94,
-    "forks_count": 23464
+    "stargazers_count": 42127,
+    "open_issues_count": 97,
+    "forks_count": 23474
   },
   {
     "full_name": "Mogakamo/developer-community-stats",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "kentcdodds/react-hooks",
-    "stargazers_count": 2229,
+    "stargazers_count": 2238,
     "open_issues_count": 8,
-    "forks_count": 1355
+    "forks_count": 1362
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 16485,
-    "open_issues_count": 548,
-    "forks_count": 3279
+    "stargazers_count": 16510,
+    "open_issues_count": 550,
+    "forks_count": 3285
   },
   {
     "full_name": "flutter/flutter",
-    "stargazers_count": 140024,
-    "open_issues_count": 10694,
-    "forks_count": 21981
+    "stargazers_count": 140646,
+    "open_issues_count": 10725,
+    "forks_count": 22068
   }
 ]
